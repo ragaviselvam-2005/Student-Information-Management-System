@@ -26,7 +26,7 @@ The Student Information Management System is a desktop-based application develop
 ✅ MySQL Database Integration
 
 
-🛠 Technologies Used
+##🛠 Technologies Used
 
 Java
 
@@ -38,11 +38,5 @@ MySQL
 
 Eclipse IDE
 
-## 📸 Screenshots
 
-
-
-### Dashboard
-
-![Dashboard](image/student-records.png)
 
