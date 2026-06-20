@@ -6,9 +6,11 @@ The Student Information Management System is a desktop-based application develop
 
 ##Table of content
 
--[Features](#Features)
--[Technologies Used](#Technologies Used)
--[Images](#Images)
+-[Features](#features)
+
+-[Technologies Used](#technologiesUsed)
+
+-[Images](#images)
 
 🚀 Features
 User Login Authentication
@@ -31,5 +33,7 @@ Eclipse IDE
 📸 Images
 Login Page
 ![Login Page](images/login.png)
+
+
 Student Records
 ![Dashboard](images/student-records.png)
